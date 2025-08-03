@@ -16,7 +16,7 @@ The-Best-Roblox-Game-Wiki旨在为Roblox玩家、开发者和爱好者提供一�
 | 4 | **Donkey Kong Bananza**<br>大金刚香蕉 | 动作/平台跳跃 | 经典角色、香蕉收集、关卡挑战 | 关卡攻略、收集指南、角色技能、速通技巧 | [donkeykong-bananza.com](https://donkeykong-bananza.com) |
 | 5 | **Pokemon Decks**<br>宝可梦卡组 | 卡牌/策略 | 宝可梦卡牌、卡组构建、对战策略 | 卡牌图鉴、卡组推荐、对战攻略、策略分析 | [pokemon-decks.com](https://pokemon-decks.com) |
 
-## 🧩 益智类游戏Wiki内容
+## 🧩 益智类游戏
 
 | 游戏名称 | 游戏类型 | 特色功能 | Wiki内容 | 相关网址 |
 |----------|----------|----------|----------|----------|
